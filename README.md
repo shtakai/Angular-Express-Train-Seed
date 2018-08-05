@@ -1,5 +1,7 @@
 # Angular Express Train Seed
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Angular-Express-Train-Seed.svg)](https://www.guardrails.io)
+
 This is a starting point for making AngularJS web applications with a node.js back end.  Here are some of the features:
 - organized directories for both server side and client side
 - basic user authentication using 401 responses from server
